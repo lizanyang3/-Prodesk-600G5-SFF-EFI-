@@ -18,3 +18,6 @@ CPU架构：Coffee Lake
 
 ![97e95afd-2c0c-4572-80b8-5d054ea804a7](https://github.com/user-attachments/assets/7c1f7214-2973-4547-b74d-f0d053c2c1c9)
 ![f037e62b-49ad-4e42-8a91-e53777b9bca5](https://github.com/user-attachments/assets/3d4a8d52-ca1e-4664-8385-ff9ef75e356b)
+![ce66164a-09fa-4629-8bac-3f735c5379ff](https://github.com/user-attachments/assets/a3e3df9a-2357-427e-92cd-b5f3174da625)
+![b1eceaea-43b0-4a17-afc5-3e9f0daece8b](https://github.com/user-attachments/assets/e9883120-f48a-4e3a-bb21-8150945d2a0b)
+![ad28e7f0-4d95-41fa-bb6d-4e44bb35b132](https://github.com/user-attachments/assets/455edc7a-cf9c-4057-b025-8805f75f6a40)
