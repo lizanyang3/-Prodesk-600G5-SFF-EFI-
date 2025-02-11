@@ -1,4 +1,4 @@
-# -Prodesk-600G5-SFF-EFI-
+# HP-Prodesk-600G5-SFF-EFI
 惠普Prodesk 600G5 SFF EFI 黑苹果配置
 系统：macOS Sonoma 版本14.7.3（版号23H417）
 型号标识符：Macmini8,1
