@@ -13,23 +13,8 @@ CPU架构：Coffee Lake
 硬盘：金泰克256g固态+西数500g M.2
 声音：外接小音箱
 键盘鼠标USB型
-
-惠普Prodesk 600G5 SFF EFI	
-系统：	macOS Sonoma 版本14.7.3（版号23H417）
-型号标识符	Macmini8,1
-OpenCore	1.03
-CPU	Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz
-CPU架构	Coffee Lake
-核显	ntel CoffeeLake-S GT2 [UHD Graphics 630] 1G
-内存	三星8G*2=16G
-无线网卡	博通免驱Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1772.1)
-隔空投送	支持
-有限网卡	Intel I219LM7 PCI Express Gigabit Ethernet
-硬盘	金泰克256g固态+西数500g M.2
-声音	外接小音箱
-	键盘鼠标USB型
  
- 
+ ![15108d74-d0a0-4c62-a6c6-e96da6f14823](https://github.com/user-attachments/assets/e60e1e7c-d8de-44d8-952d-53d743baeb34)
  
  ![image](https://github.com/user-attachments/assets/d27f345d-435f-49be-9a8b-842314881f2a)
 
