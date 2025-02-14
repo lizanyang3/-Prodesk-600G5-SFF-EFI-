@@ -14,8 +14,7 @@ CPU架构：Coffee Lake
 声音：外接小音箱
 键盘鼠标USB型
  
- ![15108d74-d0a0-4c62-a6c6-e96da6f14823](https://github.com/user-attachments/assets/e60e1e7c-d8de-44d8-952d-53d743baeb34)
- 
+
  ![image](https://github.com/user-attachments/assets/d27f345d-435f-49be-9a8b-842314881f2a)
 
 ![97e95afd-2c0c-4572-80b8-5d054ea804a7](https://github.com/user-attachments/assets/7c1f7214-2973-4547-b74d-f0d053c2c1c9)
